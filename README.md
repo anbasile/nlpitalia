@@ -18,7 +18,9 @@ A collection of NLP resources for Italian. Do you want to add a new resource? Pi
 ## Toolkits
 
 - [Tint](http://tint.fbk.eu/)
-  > Tint (The Italian NLP Tool) is a Java-based pipeline for Natural Language Processing (NLP) in Italian. It is very fast and accurate, and implements most of the common linguistic tools, such as part-of-speech tagging and dependency parsing. The tool is based on Stanford CoreNLP, and can be used as a stand-alone tool, included as a Java library or as a REST API service. Tint also includes wrappers (for third-party tools) that use the CoreNLP paradigm and therefore can be applied to languages different than Italian.
+  - description:
+    > Tint (The Italian NLP Tool) is a Java-based pipeline for Natural Language Processing (NLP) in Italian. It is very fast and accurate, and implements most of the common linguistic tools, such as part-of-speech tagging and dependency parsing. The tool is based on Stanford CoreNLP, and can be used as a stand-alone tool, included as a Java library or as a REST API service. Tint also includes wrappers (for third-party tools) that use the CoreNLP paradigm and therefore can be applied to languages different than Italian.(Source: http://tint.fbk.eu/)
+  - reference: http://arxiv.org/abs/1609.06204
 
 ## Morphological dictionaries
 
