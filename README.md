@@ -10,7 +10,7 @@ A collection of NLP resources for Italian. Do you want to add a new resource? Pi
 - [PAISÀ](https://www.corpusitaliano.it/)
 - [itWaC](http://wacky.sslmit.unibo.it/doku.php?id=corpora)
 
-### Sentiment-analysis
+### Sentiment analysis
 
 - [TWITA](http://valeriobasile.github.io/twita/downloads.html)
 
