@@ -1,5 +1,5 @@
 # nlpitalia
-A collection of NLP resources for Italian.
+A collection of NLP resources for Italian. Do you want to add a new resource? Ping me at me@angelobasile.it
 
 ## Corpora
 
