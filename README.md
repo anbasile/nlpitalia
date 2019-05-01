@@ -5,7 +5,7 @@ A collection of NLP resources for Italian. Do you want to add a new resource? Pi
 
 ## Corpora
 
-### Large unannotated corpora
+### Large corpora
 
 - [PAISÀ](https://www.corpusitaliano.it/)
 - [itWaC](http://wacky.sslmit.unibo.it/doku.php?id=corpora)
