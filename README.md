@@ -1,7 +1,7 @@
 ![logo](logo.png)
 
 # nlpitalia
-A collection of NLP resources for Italian. Do you want to add a new resource? Ping me at [me chiocciola angelo basile punto it]
+A collection of NLP resources for Italian. Do you want to add a new resource? Ping me at [me chiocciola angelo basile punto it] or start a new issue using the `New resource` template.
 
 ## Corpora
 
