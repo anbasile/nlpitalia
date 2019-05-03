@@ -28,4 +28,8 @@ A collection of NLP resources for Italian. Do you want to add a new resource? Pi
 
 ## Word Embeddings
 
-- [Italian Word Embeddings](http://hlt.isti.cnr.it/wordembeddings/)
+|   | name                                                                                                                            | source            | size | vocabulary | link                                   | file size |
+|---|---------------------------------------------------------------------------------------------------------------------------------|-------------------|------|------------|----------------------------------------|-----------|
+| 1 | [Italian Word Embeddings - skipgram](http://hlt.isti.cnr.it/wordembeddings/skipgram_wiki_window10_size300_neg-samples10.tar.gz) | Italian Wikipedia | ?    | ?          | http://hlt.isti.cnr.it/wordembeddings/ | 1.5GB     |
+| 2 | [Italian Word Embeddings - Glove](http://hlt.isti.cnr.it/wordembeddings/glove_wiki_window10_size300_iteration50.tar.gz)         | Italian Wikipedia | ?    | ?          | http://hlt.isti.cnr.it/wordembeddings/ | 790MB     |
+|   |                                                                                                                                 |                   |      |            |                                        |           |
